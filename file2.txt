@@ -1,2 +1,3 @@
 This is file2
-This is second line of file2, changed in github.
+This is second line of file2, but changed in feature/FEAT-1 and github master branches, together.
+added third line in feature/FEAT-1 branch
